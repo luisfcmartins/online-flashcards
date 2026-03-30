@@ -2,7 +2,7 @@
 
 A simple, browser‑based flashcard app for quick studying. No backend, no setup — just open and start learning.
 
-👉 [**Live Demo**](https://luisfcmartins.github.io/online-flashcards/
+👉 [**Live Demo**](https://luisfcmartins.github.io/online-flashcards/)
 
 ## 🚀 Features
 - Lightweight and fast  
