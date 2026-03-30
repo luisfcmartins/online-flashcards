@@ -1,0 +1,23 @@
+body {
+  background-color: #2b2d31;   /* Discord dark gray */
+  color: #f2f3f5;              /* Almost-white text */
+  font-family: sans-serif;
+  margin: 0;
+}
+
+h1, p, button {
+  color: #f2f3f5;
+}
+
+button {
+  background-color: #5865f2;   /* Discord blurple */
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #4752c4;   /* Slightly darker blurple */
+}
